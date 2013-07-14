@@ -1,0 +1,16 @@
+{
+  "name": "3 Sided Flash",
+  "description": "3 sided flash cards for learning Japanese",
+  "type": "certified",
+  "launch_path": "http://localhost:8888/firefoxos/3sidedflash/index.html",
+  "developer": {
+    "name": "Natasha Rooney",
+  },
+  "permissions": {
+    "sms":{},
+    "power":{}
+  },
+  "icons": {
+    "128": "http://localhost:8888/firefoxos/3sidedflash/style/icons/Blank.png"
+  }
+}
